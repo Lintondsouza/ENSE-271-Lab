@@ -1,0 +1,30 @@
+This is my lab 5 Assignment folder.
+
+## Assignment
+
+Building a website for a Persona created for a Job Hunting Application:
+
+Complete the Figma persona template provided (or make your own!)
+Assue you are creating this Persona to aid in developing a Job Hunting website
+Consider their goals, tasks, needs and frustrations of a user of a job hunting site
+Create a new wordpress site in Local
+(Optional) Install a different starter template than the one we looked at
+This is optional as you may need to configure a lot of the template to work with your persona, and we won’t look at this in too much depth until next lab!
+Create a home page which captures some elements of your persona’s personality, e.g. hobbies or interests
+Create three new static pages, and link these to the home page
+Use two or three site builder blocks on each page to convey a goal or task of the about the persona
+e.g. If the persona wants a high paying job to give to charity, include some of their favourite charities
+Make a blog page with three entries
+In each one, comment on a specific need or pain point of the user.
+e.g. if the user has had difficulty finding jobs that are available in the time they are free, have them write about it
+It does not need to be lengthy.
+You may use a text-generation site, e.g. ChatGPT to help with this
+Make sure the blogs are all accessible from the main page, through either links in the menu, or using a blog post block
+Document your site with screen-shots, one for the home page, one for each static page and one for eac blog page
+
+## Submission
+
+For this lab, please submit screenshots of your work, rather than your complete installation.
+Please submit both the completed Persona template, as well as the screenshots of the website,
+At the minimum, include screenshots of the home page, the three static pages, and the three blog pages
+You may include all images in a single .zip file
